@@ -59,6 +59,7 @@
 
 #include "../include/MCU.h"
 #include "EVE_config.h"
+#include "FT8xx.h"
 
 #include "pico/stdlib.h"
 #include "hardware/spi.h"
